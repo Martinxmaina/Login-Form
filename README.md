@@ -7,7 +7,7 @@ A simple and user-friendly login form created using **Python** and **Tkinter**. 
 - **Simple User Interface:** Easy-to-use layout with a responsive design.
 - **Tkinter Integration:** Utilizes Tkinter for creating the graphical user interface (GUI).
 - **Validation:** Basic login validation checks for correct username and password.
-- **Custom Button Styling:** Uses `ttk.Style` to apply custom styles to the login button.
+
 
 ## Screenshots
 
@@ -51,10 +51,3 @@ A simple and user-friendly login form created using **Python** and **Tkinter**. 
 
 If the credentials are correct, you'll see a success message. Otherwise, an error message will be displayed.
 
-## Project Structure
-
-```bash
-.
-├── login_form.py       # Main Python script
-├── README.md           # Project documentation
-└── other-files         # Add any additional files or assets here
